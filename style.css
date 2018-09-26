@@ -4,6 +4,10 @@ P {
 h1 {
    font-family: sans-serif;
  }
-title{
+title {
   font-style: oblique;
+}
+#recipe {
+  line-height: normal;
+  list-style-type: disc;
 }
